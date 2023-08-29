@@ -1,6 +1,6 @@
-Chaitanya Eranki se22256
-Rohil Verma rbv299
-Cliff Xu cx2356
+Rohil Verma
+Chaitanya Eranki 
+Cliff Xu
 
 To run the code do the following in the terminal:
 

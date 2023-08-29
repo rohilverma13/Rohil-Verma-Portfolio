@@ -1,0 +1,5 @@
+/u/rohil/cs354/ray-tracing/ray/build/CMakeFiles/rebuild_cache.dir
+/u/rohil/cs354/ray-tracing/ray/build/CMakeFiles/edit_cache.dir
+/u/rohil/cs354/ray-tracing/ray/build/src/CMakeFiles/rebuild_cache.dir
+/u/rohil/cs354/ray-tracing/ray/build/src/CMakeFiles/ray.dir
+/u/rohil/cs354/ray-tracing/ray/build/src/CMakeFiles/edit_cache.dir

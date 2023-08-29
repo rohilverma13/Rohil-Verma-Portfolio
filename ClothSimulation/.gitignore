@@ -1,0 +1,3 @@
+# Ignore Dist Folder
+dist
+node_modules

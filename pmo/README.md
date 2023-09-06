@@ -1,4 +1,5 @@
-This project is the initial stages of an application my friend and I are developing. It is locally hosted right now and is still going 
+This project is the initial stages of an application my friend and I are developing. The application is essentially a social media app that
+aims to build human to human connections through music listening habits. It is locally hosted right now and is still going 
 through drastic design and development changes, but here is a picture of how I initially coded it:
 
 

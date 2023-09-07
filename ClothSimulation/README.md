@@ -1,6 +1,3 @@
-Rohil Verma
-Chaitanya Eranki 
-Cliff Xu
 
 To run the code do the following in the terminal:
 

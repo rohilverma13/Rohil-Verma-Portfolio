@@ -1,2 +1,16 @@
-Cliff Xu cx2356
-Rohil Verma rbv299
+This is my favorite project that I've completed. In this project, you can see how I implemented ray tracing so that when a mouse
+cursor is hovering over a bone of the skeleton, a cylinder around the bone lights up. Once a bone is highlighted, you can rotate 
+that bone. Press different numbers (1-7) to see different skeletons and different meshes that have been placed on top of the skeleton.
+
+Here are the steps to run this project: 
+
+1. Get NPM package installer
+2. Install typescript compiler, off screen canvas, and http-server:
+      npm install -g typescript
+      npm install -g http-server
+      npm install --save @types/offscreencanvas
+3. Run the make-skinning.py file
+4. Launch http server:
+      http-server dist -c-1
+
+Enjoy!
